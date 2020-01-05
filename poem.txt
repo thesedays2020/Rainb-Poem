@@ -2,7 +2,6 @@ Colors and Unicorns
 by: Tommy
 
 red
-
 yellow-ish
 green
 orange
