@@ -5,7 +5,7 @@ red
 yellow-ish
 green
 orange
-sky blue
+sky blue green
 unicorns
 
 The end.
